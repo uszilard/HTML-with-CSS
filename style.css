@@ -1,6 +1,10 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: #efeee7;
+    font-style: Georgia, "Times New Roman", Times, serif;
+    color: #333333;
+
 }
 
 head {
@@ -8,5 +12,35 @@ head {
 }
 
 h1 {
-    color: red;
+    font: #eee;
+    font-size: 30px;
+    text-align: center;
+
+
+}
+
+h2 {
+    font-size: 25px;
+    margin: 0 auto;
+}
+
+#main-bio {
+    float: left;
+    width: 200px;
+}
+
+#contact-info {
+    float: left;
+    width: 70%;
+    text-align: right;
+    
+}
+
+#bio-image {
+    float: left;
+    width: 10%;
+}
+
+ul {
+    text-align: end;
 }
