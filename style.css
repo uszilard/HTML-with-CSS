@@ -14,7 +14,7 @@ head {
 h1 {
     font: #eee;
     font-size: 30px;
-    text-align: center;
+    
 
 
 }
@@ -32,7 +32,7 @@ h2 {
 #contact-info {
     float: left;
     width: 70%;
-    text-align: right;
+    
     
 }
 
