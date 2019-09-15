@@ -3,13 +3,13 @@ body {
     margin: 0;
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 18px;
-    line-height: 150%;
+    line-height: 200%;
     color: #333;
     background: #efeee7;
   }
   
   header {
-    background: #d21034;
+    background: #505050;
   }
   
   h1 {
@@ -17,9 +17,8 @@ body {
     margin: 0;
     margin-bottom: 20px;
     font-size: 28px;
-    color: #eee;
-    text-align: center;
-    background: #333;
+    color: rgb(245, 201, 201);
+    text-align: center; 
   }
   
   h2 {
@@ -42,11 +41,11 @@ body {
   }
   
   #main-bio {
-    width: 70%;
+    width: 65%;
   }
   
   #contact-info {
-    width: 30%;
+    width: 35%;
   }
   
   #bio-image {
@@ -60,6 +59,8 @@ body {
     padding: 40%;
   }
 
-  html {
-    scroll-behavior: auto;
-  }
+
+  .noScroll {
+    overflow: hidden;
+    position:fixed center;
+}
