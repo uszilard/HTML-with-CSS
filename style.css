@@ -41,11 +41,11 @@ body {
   }
   
   #main-bio {
-    width: 65%;
+    width: 70%;
   }
   
   #contact-info {
-    width: 35%;
+    width: 30%;
   }
   
   #bio-image {
@@ -62,5 +62,5 @@ body {
 
   .noScroll {
     overflow: hidden;
-    position:fixed center;
+    position: fixed center;
 }
