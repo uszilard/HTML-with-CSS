@@ -6,61 +6,60 @@ body {
     line-height: 200%;
     color: #333;
     background: #efeee7;
-  }
-  
-  header {
+}
+
+header {
     background: #505050;
-  }
-  
-  h1 {
+}
+
+h1 {
     padding: 20px 0;
     margin: 0;
     margin-bottom: 20px;
     font-size: 28px;
     color: rgb(245, 201, 201);
-    text-align: center; 
-  }
-  
-  h2 {
+    text-align: center;
+}
+
+h2 {
     font-size: 24px;
-  }
-  
-  a {
+}
+
+a {
     color: #d21034;
-  }
-  
-  .container {
+}
+
+.container {
     width: 1024px;
     margin: 0 auto;
-  }
-  
-  #main-bio,
-  #contact-info,
-  #bio-image {
+}
+
+#main-bio,
+#contact-info,
+#bio-image {
     float: left;
-  }
-  
-  #main-bio {
+}
+
+#main-bio {
     width: 70%;
-  }
-  
-  #contact-info {
+}
+
+#contact-info {
     width: 30%;
-  }
-  
-  #bio-image {
+}
+
+#bio-image {
     width: 200px;
     height: 200px;
     margin-right: 20px;
-  } 
+}
 
-  .footer-info {
+.footer-info {
     text-align: center;
     padding: 40%;
-  }
+}
 
-
-  .noScroll {
+.noScroll {
     overflow: hidden;
     position: fixed center;
 }
